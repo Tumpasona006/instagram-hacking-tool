@@ -1,4 +1,4 @@
-## Instagram Hacking Tool
+## Instagram phishing Tool
 
 #### Description
 Instagram Hacking Tool is an upgrade from original ShellPhish Tool by thelinuxchoice under GNU LICENSE. It is a Phishing Tool. 
